@@ -10,7 +10,7 @@
 
 ### How to Use?
 "Cloudy Clock" is designed to be user-friendly and straightforward:
-1. Simply open the [web application](https://scergun.github.io/Cloudy-Clock/)in your browser.
+1. Simply open the [web application](https://scergun.github.io/Cloudy-Clock/) in your browser.
 2. The current time will be displayed in digital format, clearly indicating the hour, minute, and second.
 3. Enjoy the relaxing ambiance and use the clock as a gentle reminder throughout your day.
 
